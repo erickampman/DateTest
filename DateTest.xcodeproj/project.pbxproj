@@ -23,6 +23,7 @@
 		E4653A8F2C6FB76300A2A0FB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E4653A962C6FB77600A2A0FB /* DateManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateManager.swift; sourceTree = "<group>"; };
 		E4653A9A2C70EEA900A2A0FB /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		E4653A9B2C70F91100A2A0FB /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +40,7 @@
 		E4653A7B2C6FB76200A2A0FB = {
 			isa = PBXGroup;
 			children = (
+				E4653A9B2C70F91100A2A0FB /* Readme.md */,
 				E4653A862C6FB76200A2A0FB /* DateTest */,
 				E4653A852C6FB76200A2A0FB /* Products */,
 			);
